@@ -18,7 +18,7 @@ import time
 # tab of
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
-DEVELOPER_KEY = "AIzaSyAG7NfffU5qEpMK0-E_OnNbktGKwH6byXk"
+DEVELOPER_KEY = YOUR_API_KEY
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 REGION_CODE = 'US'
